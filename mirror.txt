@@ -1,2 +1,3 @@
-let colors = [blue, red, black]
-Math.floor(Math.random()*colors.length)
+let colors = [blue, red, black];
+let leastLiked = red;
+Math.floor(Math.random()*colors.length);
