@@ -1,1 +1,2 @@
-break off all vexations
+let colors = [blue, red, black]
+Math.floor(Math.random()*colors.length)
